@@ -1,1 +1,1 @@
-web: Server -bind 0.0.0.0:$PORT
+web: XebiaBattle --bind 0.0.0.0:$PORT

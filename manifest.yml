@@ -6,4 +6,4 @@ applications:
   name: XebiaBattle
   host: xebiabattle
   disk_quota: 1024M
-  buildpack: swift_buildpack
+  buildpack: https://github.com/cloudfoundry-community/swift-buildpack.git
